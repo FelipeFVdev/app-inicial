@@ -5,7 +5,7 @@
 - [x] [REACT] componente usando props.children
 - [x] [REACT] componente usando props
 - [x] [REACT] componente com envento
-- [] [REACT] componente com estado
+- [x] [REACT] componente com estado
 - [] [REACT] comunicacao entre componente (direta)
 - [] [REACT] comunicacao entre componente (indireta)
 - [] [REACT] renderizacao condiconal
