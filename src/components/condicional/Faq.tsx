@@ -1,13 +1,8 @@
 import { useState } from "react";
 import Pergunta from "./Pergunta";
 
-interface PerguntaProps{
-    texto: string;
-    resposta: string;
-    aberto: boolean;
-}
 
-export default function Faq(props: PerguntaProps) {
+export default function Faq() {
 
     const [ativo, setAtivo] = useState<number>(0)
 
