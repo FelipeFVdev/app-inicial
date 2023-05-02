@@ -8,5 +8,5 @@
 - [x] [REACT] componente com estado
 - [x] [REACT] comunicacao entre componente (direta)
 - [x] [REACT] comunicacao entre componente (indireta)
-- [] [REACT] renderizacao condiconal
+- [x] [REACT] renderizacao condiconal
 - [] [REACT] renderizacao de listas
