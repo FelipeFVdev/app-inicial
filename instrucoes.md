@@ -9,4 +9,4 @@
 - [x] [REACT] comunicacao entre componente (direta)
 - [x] [REACT] comunicacao entre componente (indireta)
 - [x] [REACT] renderizacao condiconal
-- [] [REACT] renderizacao de listas
+- [x] [REACT] renderizacao de listas
